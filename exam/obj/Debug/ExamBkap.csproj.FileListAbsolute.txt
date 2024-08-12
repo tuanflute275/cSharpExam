@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\exam\exam\bin\Debug\exam.exe
+C:\Users\ADMIN\Desktop\exam\exam\bin\Debug\exam.exe.config
+C:\Users\ADMIN\Desktop\exam\exam\obj\Debug\ExamBkap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\exam\exam\obj\Debug\ExamBkap.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\exam\exam\obj\Debug\ExamBkap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\exam\exam\obj\Debug\exam.exe
+C:\Users\ADMIN\Desktop\exam\exam\obj\Debug\exam.pdb
+C:\Users\ADMIN\Desktop\exam\exam\bin\Debug\exam.pdb
