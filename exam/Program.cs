@@ -10,6 +10,7 @@ namespace exam
     {
         static void Main(string[] args)
         {
+            // vẽ hình cn: CSharp/Ex3/Bai1.cs at master · thantrieu/CSharp
             int choice = 0;
             Console.OutputEncoding = Encoding.UTF8;
             StudentService studentService = new StudentService();
